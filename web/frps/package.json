@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@types/humanize-plus": "^1.8.0",
-    "echarts": "^5.4.3",
+    "echarts": "^6.1.0",
     "element-plus": "^2.5.3",
     "humanize-plus": "^1.8.2",
     "vue": "^3.4.15",
